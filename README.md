@@ -2,7 +2,7 @@
 
 # WhoCanIVoteFor
 
-This project is designed for people who don't know loads about the ins and outs of elections to use to find out everything about upcoming elections, including candidates, polling stations, electon dates, etc.
+This project is designed for people who don't know loads about the ins and outs of elections to use to find out everything about upcoming elections, including candidates, polling stations, election dates, etc.
 
 It has the following features:
 
